@@ -1,1 +1,0 @@
-{"model_1": {"test": "s3://sagemaker-us-east-2-730413480526/twitter_sentiment_1/test.csv", "val": "s3://sagemaker-us-east-2-730413480526/twitter_sentiment_1/validation.csv", "train": "s3://sagemaker-us-east-2-730413480526/twitter_sentiment_1/train.csv"}}
